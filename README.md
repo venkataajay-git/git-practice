@@ -5,3 +5,4 @@ I am practicing Git branches.
  
 ## About This Project 
 This repository is my Git learning journey. 
+I am learning Git from branch one. 
